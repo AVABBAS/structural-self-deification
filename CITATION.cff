@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the article."
+title: "Structural Self-Deification in Three Language Models: Data and Materials"
+authors:
+  - family-names: Hamidavi
+    given-names: Abbas
+    orcid: "https://orcid.org/0009-0001-7342-7844"
+    affiliation: "Department of Computer Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran"
+date-released: 2026-11-04
+license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23955786"
+    description: "Preprint (Zenodo)"
+preferred-citation:
+  type: article
+  title: "Structural Self-Deification in Three Language Models: An Exploratory Qualitative Case Series"
+  authors:
+    - family-names: Hamidavi
+      given-names: Abbas
+      orcid: "https://orcid.org/0009-0001-7342-7844"
+  journal: "Zygon"
+  year: 2026
+  notes: "Manuscript submitted November 2026."
